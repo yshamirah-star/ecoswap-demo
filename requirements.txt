@@ -3,10 +3,10 @@ pandas
 joblib
 folium
 streamlit-folium
-diffusers
-transformers
-torch
-accelerate
-safetensors
-scikit-learn
+diffusers==0.25.0
+transformers==4.37.2
+torch==2.2.0
+accelerate==0.27.2
+safetensors==0.4.2
+scikit-learn==1.3.2
 “Update requirements.txt to include scikit-learn”
