@@ -1,0 +1,11 @@
+listing_id,user_id_seller,user_id_buyer,waste_type,waste_subtype,quantity_kg,location_country,location_city,industry_sector,quality_grade,price_per_kg(₦),listing_date,expiry_date,request_for_quotation(rfq)_status,match_success,delivery_distance_km,estimated_cost_saving(₦),Hierarchical_Category
+1001,351,703,Mixed_Industrial,Hdpe Pellets,922.1,Nigeria,Ikeja Market,Food_Processing,A (reusable),1.82,2025-11-24,2025-12-18,Matched,Yes,3.9,1437,Mixed_Industrial
+1002,392,703,Plastics,Cotton Scraps,1376.6,Nigeria,Ikeja Computer Village,Plastics_Mfg,B (needs cleaning),1.1,2025-02-27,2025-04-12,Matched,No,13.6,0,Plastics
+1003,314,664,Textiles,Polyester Offcuts,558.4,Nigeria,Ikeja Industrial,Plastics_Mfg,C (raw),1.43,2025-01-13,2025-02-22,Open,Yes,16.1,0,Textiles
+1004,371,720,Paper,Cotton Scraps,1639.4,Nigeria,Ikeja Market,Plastics_Mfg,C (raw),1.46,2026-01-15,2026-03-01,Negotiating,Yes,6.0,654,Paper/Cardboard
+1005,360,703,Plastics,Engrass Organic Sludge,1191.1,Nigeria,Ikeja Computer Village,Textiles,B (needs cleaning),1.1,2025-05-21,2025-06-15,Matched,No,13.6,0,Plastics
+1006,320,748,Plastics,Hdpe Pellets,932.9,Nigeria,Oregun,Food_Processing,A (reusable),1.9,2025-05-06,2025-05-19,Rfq_Received,Yes,13.6,0,Plastics
+1007,382,703,Organics,Wet Paper Bales,810.6,Nigeria,Oregun,Plastics_Mfg,B (needs cleaning),1.7,2025-04-25,2025-05-14,Rfq_Received,No,13.7,530,Organics
+1008,386,797,Paper,Engrass Organic Sludge,754.0,Nigeria,Ikeja Industrial,Metal_Workshop,B (needs cleaning),1.1,2025-03-13,2025-04-07,Rfq_Received,Yes,13.6,0,Paper/Cardboard
+1009,374,749,Plastics,Vegetable Peels,783.4,Nigeria,Ikeja Computer Village,Packaging,A (reusable),1.4,2026-01-13,2026-02-03,Negotiating,No,4.8,0,Plastics
+1010,374,799,Textiles,Cotton Scraps,967.8,Nigeria,Oregun,Plastics_Mfg,B (needs cleaning),0.58,2025-02-22,2025-03-24,Negotiating,No,7.1,239,Textiles
