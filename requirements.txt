@@ -8,3 +8,5 @@ transformers
 torch
 accelerate
 safetensors
+scikit-learn
+“Update requirements.txt to include scikit-learn”
